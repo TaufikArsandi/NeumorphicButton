@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FA62A23125B34FB5005EA5D5 /* ButtonView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA62A23025B34FB5005EA5D5 /* ButtonView2.swift */; };
 		FA62A23525B35711005EA5D5 /* ButtonView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA62A23425B35711005EA5D5 /* ButtonView3.swift */; };
+		FA649CD625C7795300341270 /* ButtonView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA649CD525C7795300341270 /* ButtonView4.swift */; };
 		FA7C7CF925B2F36B00742F30 /* NeumorphicButtonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7C7CF825B2F36B00742F30 /* NeumorphicButtonApp.swift */; };
 		FA7C7CFB25B2F36B00742F30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7C7CFA25B2F36B00742F30 /* ContentView.swift */; };
 		FA7C7CFD25B2F36F00742F30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA7C7CFC25B2F36F00742F30 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		FA62A23025B34FB5005EA5D5 /* ButtonView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView2.swift; sourceTree = "<group>"; };
 		FA62A23425B35711005EA5D5 /* ButtonView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView3.swift; sourceTree = "<group>"; };
+		FA649CD525C7795300341270 /* ButtonView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView4.swift; sourceTree = "<group>"; };
 		FA7C7CF525B2F36B00742F30 /* NeumorphicButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NeumorphicButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA7C7CF825B2F36B00742F30 /* NeumorphicButtonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorphicButtonApp.swift; sourceTree = "<group>"; };
 		FA7C7CFA25B2F36B00742F30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				FA7C7D0825B2FA3100742F30 /* ButtonView1.swift */,
 				FA62A23025B34FB5005EA5D5 /* ButtonView2.swift */,
 				FA62A23425B35711005EA5D5 /* ButtonView3.swift */,
+				FA649CD525C7795300341270 /* ButtonView4.swift */,
 				FA7C7CFC25B2F36F00742F30 /* Assets.xcassets */,
 				FA7C7D0125B2F36F00742F30 /* Info.plist */,
 				FA7C7CFE25B2F36F00742F30 /* Preview Content */,
@@ -148,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA7C7CFB25B2F36B00742F30 /* ContentView.swift in Sources */,
+				FA649CD625C7795300341270 /* ButtonView4.swift in Sources */,
 				FA62A23125B34FB5005EA5D5 /* ButtonView2.swift in Sources */,
 				FA7C7D0925B2FA3100742F30 /* ButtonView1.swift in Sources */,
 				FA7C7CF925B2F36B00742F30 /* NeumorphicButtonApp.swift in Sources */,
