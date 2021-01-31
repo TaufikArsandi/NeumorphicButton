@@ -27,6 +27,7 @@ struct ButtonView1: View {
                             LinearGradient(gradient: Gradient(colors: [Color(#colorLiteral(red: 0.6614157807, green: 0.9235616809, blue: 0.9764705896, alpha: 1)), Color.white]), startPoint: .topLeading, endPoint: .bottomTrailing))
                             .padding(2)
                             .blur(radius: 2)
+                            .padding()
                     }
                 )
                     
