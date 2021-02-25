@@ -11,6 +11,7 @@ import SwiftUI
 struct ButtonView2: View {
     @State var tap = false
     @State var press = false
+    @State var onTap = false
     var body: some View {
         ZStack {
             Image(systemName: "sun.max")

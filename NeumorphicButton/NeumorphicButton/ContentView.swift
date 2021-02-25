@@ -16,6 +16,8 @@ struct ContentView: View {
             ButtonView2()
             
             ButtonView3()
+            
+            ButtonView4()
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(Color(#colorLiteral(red: 0.6614157807, green: 0.9235616809, blue: 0.9764705896, alpha: 1)))
